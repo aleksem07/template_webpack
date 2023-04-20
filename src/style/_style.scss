@@ -1,0 +1,10 @@
+.page__body {
+  padding-inline: 3%;
+  max-width: $width-desktop;
+  margin: 0 auto;
+  display: grid;
+  height: 100vh;
+  font-family: "Montserrat";
+  background-color: $back;
+  color: $text;
+}
