@@ -3,7 +3,7 @@
   "homepage": "https://github.com/aleksem07/@@@@@@",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "start": "webpack serve",
     "build-dev": "webpack",
