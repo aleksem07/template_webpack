@@ -2,7 +2,7 @@ import "./index.html";
 import "./main.html";
 import "./index.scss";
 import code from "./img/code.png";
-import { mult, sum } from "./modules/calc";
+import { mult, sum } from "./modules/calc.js";
 
 const imgWrap = document.querySelector(".img");
 const img = new Image();

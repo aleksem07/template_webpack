@@ -3,6 +3,7 @@
   max-width: $width-desktop;
   margin: 0 auto;
   display: grid;
+  grid-template-rows: max-content 1fr max-content;
   height: 100vh;
   font-family: "Montserrat";
   background-color: $back;
